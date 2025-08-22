@@ -159,24 +159,7 @@ This project maintains a clean structure by:
 - Keeping data and models in dedicated directories
 - Providing multiple interfaces for different use cases
 
-### Setting Up Development Environment
-
-```bash
-# Clone/download the project
-# Navigate to project directory
-cd "new project"
-
-# Create and activate virtual environment
-python -m venv venv
-source venv/bin/activate  # Linux/Mac
-# or: venv\Scripts\activate  # Windows
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the project
-python launch_dashboard.py
-```
+ 
 
  
  
