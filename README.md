@@ -154,7 +154,7 @@ The trained Linear Regression model achieves:
 ## 🧹 Project Maintenance
 
 This project maintains a clean structure by:
-- Excluding virtual environments (use `.gitignore`)
+ 
 - Separating source code into modules (`src/` directory)
 - Keeping data and models in dedicated directories
 - Providing multiple interfaces for different use cases
@@ -178,14 +178,5 @@ pip install -r requirements.txt
 python launch_dashboard.py
 ```
 
-## 🤝 Contributing
-
-Feel free to contribute by:
-- Adding new features to the dashboard
-- Improving model performance
-- Adding more visualization options
-- Enhancing the user interface
-
-## 📄 License
-
-This project is for educational purposes and demonstrates machine learning concepts in student performance prediction.# Student-Score-Prediction-Project
+ 
+ 
